@@ -1,0 +1,27 @@
+# cities, states, festivals, and more everyday words (roman=devanagari)
+delhi=दिल्ली mumbai=मुंबई bombay=बॉम्बे pune=पुणे kolkata=कोलकाता calcutta=कलकत्ता chennai=चेन्नई madras=मद्रास bangalore=बेंगलुरु bengaluru=बेंगलुरु
+hyderabad=हैदराबाद ahmedabad=अहमदाबाद surat=सूरत jaipur=जयपुर lucknow=लखनऊ kanpur=कानपुर nagpur=नागपुर indore=इंदौर bhopal=भोपाल patna=पटना
+ranchi=रांची raipur=रायपुर chandigarh=चंडीगढ़ amritsar=अमृतसर ludhiana=लुधियाना agra=आगरा varanasi=वाराणसी banaras=बनारस prayagraj=प्रयागराज
+allahabad=इलाहाबाद noida=नोएडा gurgaon=गुड़गाँव gurugram=गुरुग्राम faridabad=फ़रीदाबाद ghaziabad=गाज़ियाबाद dehradun=देहरादून shimla=शिमला
+manali=मनाली srinagar=श्रीनगर jammu=जम्मू kashmir=कश्मीर goa=गोवा kochi=कोच्चि cochin=कोच्चि trivandrum=तिरुवनंतपुरम mysore=मैसूर mysuru=मैसूरु
+coimbatore=कोयंबटूर madurai=मदुरै vizag=वाइज़ाग visakhapatnam=विशाखापट्टनम vijayawada=विजयवाड़ा bhubaneswar=भुवनेश्वर guwahati=गुवाहाटी
+nashik=नासिक thane=ठाणे aurangabad=औरंगाबाद kolhapur=कोल्हापुर solapur=सोलापुर vadodara=वडोदरा baroda=बड़ौदा rajkot=राजकोट jodhpur=जोधपुर
+udaipur=उदयपुर ajmer=अजमेर kota=कोटा meerut=मेरठ aligarh=अलीगढ़ gwalior=ग्वालियर jabalpur=जबलपुर ujjain=उज्जैन rishikesh=ऋषिकेश haridwar=हरिद्वार
+maharashtra=महाराष्ट्र gujarat=गुजरात rajasthan=राजस्थान punjab=पंजाब haryana=हरियाणा bihar=बिहार jharkhand=झारखंड bengal=बंगाल odisha=ओडिशा
+assam=असम kerala=केरल karnataka=कर्नाटक tamilnadu=तमिलनाडु telangana=तेलंगाना andhra=आंध्र uttarakhand=उत्तराखंड himachal=हिमाचल chhattisgarh=छत्तीसगढ़
+india=इंडिया bharat=भारत hindustan=हिंदुस्तान pakistan=पाकिस्तान nepal=नेपाल china=चीन america=अमेरिका usa=यू.एस.ए. uk=यू.के. dubai=दुबई london=लंदन
+# festivals & occasions
+diwali=दिवाली deepawali=दीपावली holi=होली eid=ईद dussehra=दशहरा navratri=नवरात्रि ganesh=गणेश chaturthi=चतुर्थी raksha=रक्षा bandhan=बंधन
+janmashtami=जन्माष्टमी lohri=लोहड़ी pongal=पोंगल onam=ओणम christmas=क्रिसमस shaadi=शादी vivah=विवाह mela=मेला tyohar=त्योहार
+puja=पूजा pooja=पूजा aarti=आरती mandir=मंदिर masjid=मस्जिद gurudwara=गुरुद्वारा church=चर्च bhagwan=भगवान prasad=प्रसाद
+# more daily words
+bhookh=भूख pyaas=प्यास bhukh=भूख nind=नींद mood=मूड mazaa=मज़ा maza=मज़ा mazedaar=मज़ेदार dhamaal=धमाल jhakaas=झकास
+kharab=ख़राब bekaar=बेकार bekar=बेकार faltu=फ़ालतू pagal=पागल bewakoof=बेवकूफ़ hoshiyar=होशियार samajhdar=समझदार mehnat=मेहनत kamyabi=कामयाबी
+safalta=सफलता asafal=असफल mauka=मौक़ा dikkat=दिक़्क़त museebat=मुसीबत samasya=समस्या hal=हल tareeka=तरीक़ा tarika=तरीक़ा raasta=रास्ता
+koshish=कोशिश iraada=इरादा sapna=सपना sapne=सपने ummeed=उम्मीद vishwas=विश्वास bharosa=भरोसा pyaar=प्यार ishq=इश्क़ mohabbat=मोहब्बत dosti=दोस्ती
+rishta=रिश्ता parivar=परिवार family=फ़ैमिली mehmaan=मेहमान mehman=मेहमान pados=पड़ोस shehar=शहर mohalla=मोहल्ला gali=गली chowk=चौक
+school=स्कूल padhai=पढ़ाई kaksha=कक्षा shikshak=शिक्षक teacher=टीचर vidyarthi=विद्यार्थी pariksha=परीक्षा result=रिज़ल्ट number=नंबर
+naukri=नौकरी vyapar=व्यापार business=बिज़नेस tankhwah=तनख़्वाह salary=सैलरी chhutti=छुट्टी chutti=छुट्टी sunday=संडे monday=मंडे
+bijli=बिजली paani=पानी gas=गैस petrol=पेट्रोल diesel=डीज़ल sabzi=सब्ज़ी kirana=किराना mandi=मंडी thaila=थैला rupay=रुपये paisa=पैसा
+safar=सफ़र yatra=यात्रा chhuttiyan=छुट्टियाँ ghoomna=घूमना ghumna=घूमना ghoomne=घूमने sair=सैर ticket=टिकट rail=रेल railway=रेलवे airport=एयरपोर्ट
+ 

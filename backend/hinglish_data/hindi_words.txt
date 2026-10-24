@@ -1,0 +1,90 @@
+# roman = devanagari. One word per entry, spaces or newlines between. Lines starting with # are ignored.
+# Add your own at the bottom. Loaded automatically; existing built-in words are not overridden.
+
+# --- numbers ---
+ek=एक do=दो teen=तीन chaar=चार char=चार paanch=पाँच panch=पाँच chhe=छह chhah=छह saat=सात aath=आठ nau=नौ das=दस
+gyarah=ग्यारह barah=बारह terah=तेरह chaudah=चौदह pandrah=पंद्रह solah=सोलह satrah=सत्रह atharah=अठारह unnis=उन्नीस bees=बीस
+tees=तीस chalis=चालीस pachas=पचास saath=साठ sattar=सत्तर assi=अस्सी nabbe=नब्बे sau=सौ hazaar=हज़ार hazar=हज़ार lakh=लाख crore=करोड़ karod=करोड़
+aadha=आधा adha=आधा pauna=पौना dedh=डेढ़ dhai=ढाई pehla=पहला doosra=दूसरा teesra=तीसरा chautha=चौथा paanchwa=पाँचवाँ
+# --- time ---
+din=दिन raat=रात subah=सुबह dopahar=दोपहर shaam=शाम savera=सवेरा aaj=आज kal=कल parso=परसों hafta=हफ़्ता hafte=हफ़्ते mahina=महीना mahine=महीने
+saal=साल varsh=वर्ष baje=बजे ghanta=घंटा ghante=घंटे minute=मिनट pal=पल samay=समय waqt=वक़्त vakt=वक़्त abhi=अभी tabhi=तभी kabhi=कभी
+hamesha=हमेशा aksar=अक्सर kabhi-kabhi=कभी-कभी fauran=फ़ौरन turant=तुरंत jaldi=जल्दी der=देर deri=देरी pehle=पहले baad=बाद phir=फिर
+somvar=सोमवार mangalvar=मंगलवार budhvar=बुधवार guruvar=गुरुवार shukravar=शुक्रवार shanivar=शनिवार ravivar=रविवार itwar=इतवार
+# --- family & people ---
+maa=माँ mummy=मम्मी papa=पापा pitaji=पिताजी mataji=माताजी bhai=भाई behen=बहन behan=बहन didi=दीदी bhaiya=भैया dada=दादा dadi=दादी nana=नाना nani=नानी
+chacha=चाचा chachi=चाची mama=मामा mami=मामी mausi=मौसी bua=बुआ beta=बेटा beti=बेटी bachcha=बच्चा bachche=बच्चे pati=पति patni=पत्नी biwi=बीवी
+dost=दोस्त yaar=यार padosi=पड़ोसी log=लोग aadmi=आदमी aurat=औरत ladka=लड़का ladki=लड़की insaan=इंसान saab=साहब sahab=साहब
+# --- body & health ---
+  aankh=आँख aankhen=आँखें kaan=कान naak=नाक munh=मुँह daant=दाँत haath=हाथ pair=पैर pet=पेट dil=दिल peeth=पीठ gala=गला
+bukhar=बुखार dard=दर्द khansi=खाँसी zukam=ज़ुकाम sardard=सरदर्द dawai=दवाई dawa=दवा ilaaj=इलाज sehat=सेहत thakaan=थकान neend=नींद aaram=आराम
+# --- food ---
+khana=खाना khaana=खाना nashta=नाश्ता paani=पानी pani=पानी chai=चाय doodh=दूध dahi=दही lassi=लस्सी makhan=मक्खन paneer=पनीर ghee=घी tel=तेल
+roti=रोटी chapati=चपाती paratha=पराठा puri=पूरी naan=नान chawal=चावल dal=दाल daal=दाल rajma=राजमा chole=छोले chhole=छोले sabzi=सब्ज़ी sabji=सब्ज़ी
+aloo=आलू pyaaz=प्याज़ pyaz=प्याज़ tamatar=टमाटर lehsun=लहसुन adrak=अदरक mirch=मिर्च haldi=हल्दी jeera=जीरा dhaniya=धनिया namak=नमक chini=चीनी
+gud=गुड़ shahad=शहद phal=फल seb=सेब kela=केला aam=आम santra=संतरा angoor=अंगूर nimbu=नीबू gobhi=गोभी palak=पालक bhindi=भिंडी baingan=बैंगन
+matar=मटर gajar=गाजर mooli=मूली kheera=खीरा lauki=लौकी karela=करेला shimla=शिमला masala=मसाला tadka=तड़का achaar=अचार papad=पापड़ samosa=समोसा
+biryani=बिरयानी khichdi=खिचड़ी poha=पोहा upma=उपमा idli=इडली dosa=डोसा halwa=हलवा kheer=खीर laddu=लड्डू jalebi=जलेबी mithai=मिठाई
+kadhai=कड़ाही tawa=तवा patila=पतीला chamach=चम्मच katori=कटोरी thali=थाली plate=प्लेट glass=गिलास gilas=गिलास chhalni=छलनी belan=बेलन chaaku=चाकू chakku=चाकू
+ubalna=उबालना ubalo=उबालो ubal=उबाल ubla=उबला talna=तलना bhoonna=भूनना bhuno=भूनो pakana=पकाना pakao=पकाओ pakne=पकने pakega=पकेगा seekna=सिंकना
+bhigona=भिगोना bhigo=भिगो dhona=धोना dhoyen=धोएँ kaatna=काटना kaato=काटो chhilna=छीलना chhilo=छीलो milana=मिलाना milao=मिलाओ hilana=हिलाना hilao=हिलाओ
+dhakkan=ढक्कन dhakan=ढक्कन aanch=आँच gas=गैस chulha=चूल्हा pressure=प्रेशर cooker=कुकर seeti=सीटी seetiyan=सीटियाँ kukar=कुकर
+narm=नरम naram=नरम sakht=सख़्त kachcha=कच्चा pakka=पक्का tez=तेज़ dheema=धीमा teekha=तीखा meetha=मीठा khatta=खट्टा namkeen=नमकीन swadisht=स्वादिष्ट
+# --- home & things ---
+ghar=घर kamra=कमरा darwaza=दरवाज़ा khidki=खिड़की chhat=छत deewar=दीवार bijli=बिजली batti=बत्ती pankha=पंखा bistar=बिस्तर kursi=कुर्सी mez=मेज़
+kitab=किताब kapda=कपड़ा kapde=कपड़े joota=जूता joote=जूते chaabi=चाबी taala=ताला saaman=सामान cheez=चीज़ cheezein=चीज़ें bartan=बर्तन
+paisa=पैसा paise=पैसे rupaya=रुपया rupaye=रुपये kharcha=खर्चा kharche=खर्चे bachat=बचत udhaar=उधार kimat=कीमत daam=दाम sasta=सस्ता mehnga=महँगा
+dukaan=दुकान bazaar=बाज़ार gaadi=गाड़ी gadi=गाड़ी sadak=सड़क rasta=रास्ता station=स्टेशन shehar=शहर gaon=गाँव desh=देश duniya=दुनिया
+# --- weather & nature ---
+mausam=मौसम baarish=बारिश barish=बारिश dhoop=धूप hawa=हवा aandhi=आँधी badal=बादल garmi=गर्मी sardi=सर्दी thand=ठंड thanda=ठंडा garam=गरम nami=नमी
+suraj=सूरज chaand=चाँद chand=चाँद taare=तारे aasman=आसमान zameen=ज़मीन pahad=पहाड़ nadi=नदी samundar=समुद्र ped=पेड़ phool=फूल jungle=जंगल
+# --- verbs (stems and common forms) ---
+karna=करना kiya=किया karo=करो kariye=कीजिए kijiye=कीजिए karunga=करूँगा karungi=करूँगी karenge=करेंगे karega=करेगा karegi=करेगी karta=करता karti=करती karte=करते
+hona=होना hua=हुआ hui=हुई hue=हुए hoga=होगा hogi=होगी honge=होंगे hota=होता hoti=होती hote=होते
+jana=जाना jaana=जाना gaya=गया gayi=गई gaye=गए jao=जाओ jaiye=जाइए jaunga=जाऊँगा jayega=जाएगा jayegi=जाएगी jayenge=जाएँगे jata=जाता jati=जाती jate=जाते
+aana=आना aaya=आया aayi=आई aaye=आए aao=आओ aaiye=आइए aaunga=आऊँगा aayega=आएगा aayegi=आएगी aata=आता aati=आती aate=आते
+dena=देना diya=दिया di=दी do=दो dijiye=दीजिए dunga=दूँगा dungi=दूँगी denge=देंगे dega=देगा degi=देगी deta=देता deti=देती dete=देते
+lena=लेना liya=लिया li=ली lo=लो lijiye=लीजिए lunga=लूँगा lungi=लूँगी lenge=लेंगे lega=लेगा legi=लेगी leta=लेता leti=लेती lete=लेते
+dekhna=देखना dekha=देखा dekho=देखो dekhiye=देखिए dekhunga=देखूँगा dekhenge=देखेंगे dekhta=देखता dekhti=देखती
+bolna=बोलना bola=बोला bolo=बोलो boliye=बोलिए bolunga=बोलूँगा bolta=बोलता bolti=बोलती kehna=कहना kaha=कहा kaho=कहो kahiye=कहिए kehte=कहते kehta=कहता
+sunna=सुनना suna=सुना suno=सुनो suniye=सुनिए sunao=सुनाओ sunaiye=सुनाइए sunata=सुनाता
+batana=बताना bataya=बताया batao=बताओ bataiye=बताइए bataunga=बताऊँगा batayenge=बताएँगे batata=बताता batati=बताती
+padhna=पढ़ना padha=पढ़ा padho=पढ़ो padhiye=पढ़िए likhna=लिखना likha=लिखा likho=लिखो likhiye=लिखिए
+khana=खाना khaya=खाया khao=खाओ khaiye=खाइए peena=पीना piya=पीया piyo=पियो sona=सोना soya=सोया  soiye=सोइए uthna=उठना utho=उठो
+baithna=बैठना baitho=बैठो baithiye=बैठिए khada=खड़ा khade=खड़े chalna=चलना chala=चला chalo=चलो chaliye=चलिए chalega=चलेगा chalta=चलता chalti=चलती
+rukna=रुकना ruko=रुको rukiye=रुकिए rakhna=रखना rakha=रखा rakho=रखो rakhiye=रखिए rakhenge=रखेंगे rehna=रहना raho=रहो rahiye=रहिए
+milna=मिलना mila=मिला mili=मिली milega=मिलेगा milegi=मिलेगी milenge=मिलेंगे milta=मिलता milti=मिलती
+samajhna=समझना samjha=समझा samjho=समझो samjhiye=समझिए samjhao=समझाओ samjhaiye=समझाइए samajh=समझ
+puchna=पूछना poochna=पूछना pucha=पूछा poocho=पूछो puchiye=पूछिए sochna=सोचना socho=सोचो sochiye=सोचिए yaad=याद bhoolna=भूलना bhool=भूल
+banana=बनाना banaya=बनाया banao=बनाओ banaiye=बनाइए banaunga=बनाऊँगा banayenge=बनाएँगे banta=बनता banti=बनती banega=बनेगा banegi=बनेगी
+lagana=लगाना lagao=लगाओ lagaiye=लगाइए lagta=लगता lagti=लगती lagega=लगेगा lagegi=लगेगी lagenge=लगेंगे 
+dalna=डालना dalo=डालो daalo=डालो daliye=डालिए nikalna=निकालना nikalo=निकालो nikaliye=निकालिए kholna=खोलना kholo=खोलो kholiye=खोलिए
+band=बंद chalu=चालू shuru=शुरू khatam=ख़त्म poora=पूरा pura=पूरा adhura=अधूरा bhejna=भेजना bhejo=भेजो bhejiye=भेजिए bheja=भेजा
+dhoondhna=ढूँढना dhoondho=ढूँढो dhundho=ढूँढो khojna=खोजना kharidna=खरीदना kharido=खरीदो becha=बेचा bechna=बेचना
+sikhna=सीखना seekhna=सीखना sikhao=सिखाओ sikhaiye=सिखाइए samjhauna=समझाना
+pasand=पसंद napasand=नापसंद chahna=चाहना chahiye=चाहिए chahta=चाहता chahti=चाहती chahte=चाहते chahunga=चाहूँगा
+sakna=सकना sakta=सकता sakti=सकती sakte=सकते sakunga=सकूँगा paana=पाना paya=पाया 
+# --- adjectives & adverbs ---
+accha=अच्छा acha=अच्छा achha=अच्छा achhi=अच्छी acchi=अच्छी acche=अच्छे achhe=अच्छे bura=बुरा buri=बुरी bade=बड़े bada=बड़ा badi=बड़ी
+chhota=छोटा chhoti=छोटी chhote=छोटे lamba=लंबा lambi=लंबी chauda=चौड़ा mota=मोटा patla=पतला naya=नया nayi=नई purana=पुराना purani=पुरानी
+saaf=साफ़ ganda=गंदा sundar=सुंदर khoobsurat=ख़ूबसूरत mushkil=मुश्किल aasan=आसान asaan=आसान zaroori=ज़रूरी sahi=सही galat=ग़लत
+thoda=थोड़ा thodi=थोड़ी thode=थोड़े bahut=बहुत zyada=ज़्यादा jyada=ज़्यादा kam=कम kaafi=काफ़ी kafi=काफ़ी poora=पूरा aadha=आधा sirf=सिर्फ़ bilkul=बिल्कुल
+ekdum=एकदम shayad=शायद zaroor=ज़रूर pakka=पक्का sach=सच jhooth=झूठ khush=ख़ुश udaas=उदास pareshan=परेशान thaka=थका thaki=थकी gussa=ग़ुस्सा dar=डर
+aise=ऐसे waise=वैसे aisa=ऐसा waisa=वैसा jaisa=जैसा jaise=जैसे itna=इतना itni=इतनी itne=इतने utna=उतना kitna=कितना kitni=कितनी kitne=कितने
+yahan=यहाँ wahan=वहाँ kahan=कहाँ idhar=इधर udhar=उधर kidhar=किधर upar=ऊपर neeche=नीचे andar=अंदर bahar=बाहर aage=आगे peechhe=पीछे paas=पास door=दूर saamne=सामने beech=बीच
+# --- question words & grammar glue ---
+kya=क्या kaun=कौन kaunsa=कौनसा kaunsi=कौनसी kab=कब kahaan=कहाँ kyun=क्यों kyon=क्यों kaise=कैसे kitna=कितना
+mujhe=मुझे mujhko=मुझको mera=मेरा meri=मेरी mere=मेरे hamara=हमारा hamari=हमारी hamare=हमारे tumhara=तुम्हारा tumhari=तुम्हारी tumhare=तुम्हारे
+aapka=आपका aapki=आपकी aapke=आपके uska=उसका uski=उसकी uske=उसके unka=उनका unki=उनकी unke=उनके iska=इसका iski=इसकी iske=इसके
+isse=इससे usse=उससे inse=इनसे unse=उनसे isme=इसमें usme=उसमें isliye=इसलिए kyunki=क्योंकि lekin=लेकिन magar=मगर par=पर balki=बल्कि warna=वरना
+agar=अगर toh=तो to=तो phir=फिर tab=तब jab=जब tak=तक sath=साथ saath=साथ bina=बिना liye=लिए ke-liye=के-लिए wale=वाले wala=वाला wali=वाली
+ne=ने ko=को se=से mein=में me=में par=पर tak=तक ka=का ki=की ke=के hi=ही bhi=भी na=ना nahi=नहीं nahin=नहीं mat=मत
+# --- everyday phrases ---
+namaste=नमस्ते namaskar=नमस्कार shukriya=शुक्रिया dhanyavaad=धन्यवाद maaf=माफ़ maafi=माफ़ी kripya=कृपया swagat=स्वागत alvida=अलविदा
+haan=हाँ ji=जी theek=ठीक thik=ठीक chalega=चलेगा koi=कोई baat=बात nahi=नहीं tension=टेंशन arre=अरे arey=अरे waah=वाह wah=वाह 
+badhai=बधाई shubh=शुभ subhkamna=शुभकामना ramram=राम-राम dhyan=ध्यान sambhal=संभाल sambhalke=संभालके jaldi=जल्दी dheere=धीरे
+madad=मदद sahayata=सहायता jawab=जवाब sawal=सवाल sawaal=सवाल kaam=काम kaaam=काम kahani=कहानी gaana=गाना gaane=गाने sangeet=संगीत film=फ़िल्म
+khabar=ख़बर khabrein=ख़बरें samachar=समाचार jaankari=जानकारी suchna=सूचना yaad=याद dilana=दिलाना yaaddasht=याददाश्त
+# hazir / hazri: हाज़िर has a long first vowel. 'hzir' is chat shorthand with the vowels dropped.
+hazir=हाज़िर haazir=हाज़िर hajir=हाज़िर hzir=हाज़िर hazri=हाज़िरी haziri=हाज़िरी hajiri=हाज़िरी hazrii=हाज़िरी
+lao=लाओ laao=लाओ

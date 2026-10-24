@@ -1,0 +1,15 @@
+{
+  "_help": "Edit freely. 'contexts' = words that tell us what the sentence is about. 'terms' = things the mic or keyboard gets wrong, only fixed when a context word is also in the sentence.",
+  "domains": [
+    {
+      "name": "pressure cooker",
+      "contexts": ["cooker", "kukar", "kuker", "cukar", "pressure", "prashar", "presher", "dal", "chawal", "rice", "aloo", "alu", "potato", "aaloo", "ubal", "ubaal", "boil", "rajma", "chole", "chhole", "chana", "whistle", "whistles", "seeti", "seetiyan", "ceete", "siti"],
+      "terms": ["ct", "c t", "c.t", "c.t.", "city", "citi", "cities", "seeti", "seetee", "seety", "ceete", "ceeti", "ceetee", "cheeti", "cheete", "seete", "sitee", "siti", "seety", "see tea", "cd", "sity", "sitty", "ceety", "ctee", "ctees", "ctees", "ct's", "cts", "सीटी", "सिटी", "शीटी", "सिटि"],
+      "meaning": "seeti (pressure-cooker whistle)",
+      "hint": "In this Indian kitchen context 'CT', 'city', 'seeti' and 'ceete' mean सीटी, the whistle of a pressure cooker, never 'cooking time' or a city."
+    }
+  ],
+  "always": {
+    "kukar": "cooker", "kuker": "cooker", "cukar": "cooker", "prashar": "pressure", "presher": "pressure", "prasher": "pressure"
+  }
+}
